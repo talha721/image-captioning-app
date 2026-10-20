@@ -1,0 +1,22 @@
+# Virtual environments
+my_env/
+.venv/
+env/
+venv/
+
+# Gradio cache and temporary files
+.gradio/
+
+# Python byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+
+# IDE and OS generated files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
